@@ -1,0 +1,29 @@
+package first;
+import java.util.Scanner;
+public class LabTest1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int num;
+		int i=1;
+		
+		Scanner sc = new Scanner (System.in);
+		do{
+			System.out.println("Please enter a number");
+		
+		num = sc.nextInt();
+		
+		if (num%2 == 0) {
+			System.out.println("You are entered a even number,GOOD BYE DUDE!");
+			System.out.println();
+		}
+		
+		else {
+			System.out.println("ODD NUMBER !!!!!!");
+			System.out.println();
+		}
+		}while ( i < 2);
+	}
+
+	
+}
