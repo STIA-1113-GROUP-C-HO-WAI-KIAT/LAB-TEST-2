@@ -13,14 +13,14 @@ public class LabTest1 {
 		mark1 = sc.nextInt();
 		while((mark1<0) || (mark1>100)) {
 			System.out.println("Invalid input, try again....");
-			System.out.println("Enter the mark of student1 (0-100): ");
+			System.out.print("Enter the mark of student1 (0-100): ");
 			mark1 = sc.nextInt();
 		}
 		System.out.print("Enter the mark of student2 (0-100): ");
 		mark2 = sc.nextInt();
 		while((mark2<0) || (mark2>100)) {
 			System.out.println("Invalid input, try again....");
-			System.out.println("Enter the mark of student2 (0-100): ");
+			System.out.print("Enter the mark of student2 (0-100): ");
 			mark2 = sc.nextInt();
 		}
 		System.out.print("Enter the mark of student3 (0-100): ");
