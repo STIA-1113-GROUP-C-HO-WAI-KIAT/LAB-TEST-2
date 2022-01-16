@@ -1,0 +1,26 @@
+Enter the mark of student1 (0-100): 56
+Enter the mark of student2 (0-100): 101
+Invalid input, try again....
+Enter the mark of student2 (0-100): -1
+Invalid input, try again....
+Enter the mark of student2 (0-100): 99
+Enter the mark of student3 (0-100): 45
+The average is : 66.67
+
+
+
+
+
+EXTRA
+Enter the mark of student1 (0-100): 56
+Enter the mark of student2 (0-100): 101
+Invalid input, try again....
+Enter the mark of student2 (0-100): 101
+Invalid input, try again....
+Enter the mark of student2 (0-100): -1
+Invalid input, try again....
+Enter the mark of student2 (0-100): -1
+Invalid input, try again....
+Enter the mark of student2 (0-100): 99
+Enter the mark of student3 (0-100): 45
+The average is : 66.67
